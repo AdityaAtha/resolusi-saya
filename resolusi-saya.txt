@@ -1,0 +1,3 @@
+RESOLUSI SAYA
+- menguasai bahasa html, css, dan javascript
+- menguasai cara penggunaan framework bootstrap dan tailwindcss
