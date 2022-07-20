@@ -1,0 +1,6 @@
+RENCANA PLAYLIST
+- html
+  - html 5
+- css
+  - css 3
+- framework bootstrap dan tailwindcss
