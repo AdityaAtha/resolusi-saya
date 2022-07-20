@@ -3,5 +3,6 @@ RENCANA PLAYLIST
   - html 5
 - css
   - css 3
+  - css grid
 - framework bootstrap dan tailwindcss
 - membuat aplikasi menggunakan python
