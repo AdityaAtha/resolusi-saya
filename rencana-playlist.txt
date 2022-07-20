@@ -4,3 +4,4 @@ RENCANA PLAYLIST
 - css
   - css 3
 - framework bootstrap dan tailwindcss
+- membuat aplikasi menggunakan python
