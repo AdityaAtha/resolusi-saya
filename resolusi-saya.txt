@@ -2,4 +2,4 @@ RESOLUSI SAYA
 - menguasai bahasa html, css, dan javascript
 - menguasai cara penggunaan framework bootstrap dan tailwindcss
 - membuat website dengan menggunakan framework bootstrap dan tailwindcss serta memahami perbedaan dari keduanya
-- menguasai bahasa java
+- menguasai bahasa php
